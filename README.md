@@ -193,6 +193,4 @@ Project Link: [https://github.com/GaryCastillo8/Morazan-Tracking-Software](https
 [issues-shield]: https://img.shields.io/github/issues/GaryCastillo8/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/GaryCastillo8/repo/issues
 [license-shield]: https://img.shields.io/github/license/GaryCastillo8/repo.svg?style=for-the-badge
-[license-url]: https://github.com/GaryCastillo8/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/GaryCastillo8
+[license-url]: https://github.com/GaryCastillo8/repo/LICENSE.txt
