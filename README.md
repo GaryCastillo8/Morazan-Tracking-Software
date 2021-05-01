@@ -189,11 +189,11 @@ Project Link: [https://github.com/GaryCastillo8/Morazan-Tracking-Software](https
 
 [contributors-shield]: https://img.shields.io/github/contributors/GaryCastillo8/Morazan-Tracking-Software.svg?style=for-the-badge
 [contributors-url]: https://github.com/GaryCastillo8/Morazan-Tracking-Software/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/GaryCastillo8/Morazan-Tracking-Software.svg?style=for-the-badge
 [forks-url]: https://github.com/GaryCastillo8/Morazan-Tracking-Software/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/GaryCastillo8/Morazan-Tracking-Software.svg?style=for-the-badge
 [stars-url]: https://github.com/GaryCastillo8/Morazan-Tracking-Software/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/GaryCastillo8/Morazan-Tracking-Software.svg?style=for-the-badge
 [issues-url]: https://github.com/GaryCastillo8/Morazan-Tracking-Software/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/GaryCastillo8/Morazan-Tracking-Software.svg?style=for-the-badge
 [license-url]: https://github.com/GaryCastillo8/Morazan-Tracking-Software/blob/master/LICENSE.txt
