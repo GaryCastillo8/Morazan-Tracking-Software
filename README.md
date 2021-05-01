@@ -29,7 +29,7 @@
     <img src="Logo_Morazan.png" alt="Logo" width="250" height="200">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">MORAZAN TRACKING SOFTWARE</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
