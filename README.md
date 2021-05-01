@@ -192,4 +192,4 @@ Project Link: [https://github.com/GaryCastillo8/Morazan-Tracking-Software](https
 [issues-shield]: https://img.shields.io/github/issues/GaryCastillo8/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/GaryCastillo8/repo/issues
 [license-shield]: https://img.shields.io/github/license/GaryCastillo8/repo.svg?style=for-the-badge
-[license-url]: https://github.com/GaryCastillo8/repo/blob/main/LICENSE.txt
+[license-url]: https://github.com/GaryCastillo8/Morazan-Tracking-Software/blob/main/LICENSE.txt
