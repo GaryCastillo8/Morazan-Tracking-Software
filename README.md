@@ -86,7 +86,7 @@ The main purposes:
 * Show the real-time location of the satellite
 * Find its orbital parameters
 * Show the visibility window
-* To know the events above Central America and Cabañas ground station.
+* To know the events above Central America and Cabañas ground station
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
 
