@@ -104,11 +104,21 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+If you have any trouble during the installation of the packages, you can also install them one by one.
+
+* [PyQt5](https://pypi.org/project/PyQt5/)
+* [shapely](https://github.com/simplegeo/shapely)
+* [cartopy](https://github.com/SciTools/cartopy)
+* [cython](https://github.com/cython/cython)
+* [geos](https://github.com/grst/geos)
+* [matplotlib](https://github.com/matplotlib/matplotlib)
+* [numpy](https://github.com/numpy/numpy)
+* [Pillow](https://github.com/python-pillow/Pillow)
+* [pykdtree](https://github.com/storpipfugl/pykdtree)
+* [pymongo](https://github.com/mongodb/mongo-python-driver)
+* [pyshp](https://github.com/GeospatialPython/pyshp)
+* [scipy](https://github.com/scipy/scipy)
+* [sgp4](https://github.com/brandon-rhodes/python-sgp4)
 
 ### Installation
 
