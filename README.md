@@ -143,9 +143,7 @@ If you have any trouble during the installation of the packages, you can also in
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+You can view the trajectories of the CubeSats, the south atlantic anomaly and their coverage. There is a buttom for each one.
 
 
 
@@ -187,6 +185,12 @@ Project Link: [https://github.com/GaryCastillo8/Morazan-Tracking-Software](https
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
+
+Thanks to the softwares are shown below:
+
+* [Gpredict](http://gpredict.oz9aec.net/)
+* [Pypredict](https://github.com/spel-uchile/Pypredict)
+* [Orbitron]
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 
