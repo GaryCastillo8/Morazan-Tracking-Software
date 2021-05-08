@@ -88,14 +88,12 @@ The main purposes:
 * Show the visibility window
 * To know the events above Central America and Cabañas ground station
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+Is based on others professional Tracking Softwares like Pypredict, GPredict and Orbitron.
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Python](https://www.python.org)
+* [Pypredict](https://github.com/spel-uchile/Pypredict)
 
 
 <!-- GETTING STARTED -->
@@ -114,14 +112,19 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/GaryCastillo8/Morazan-Tracking-Software.git
    ```
-3. Install NPM packages
+2. Move to MTS folder
    ```sh
-   npm install
+   cd /'Morazan Tracking Software'
+ 
+   
+3. Install packages
+   ```sh
+   sudo sh install.sh
+   pip3 install --upgrade pip
    ```
 4. Enter your API in `config.js`
    ```JS
