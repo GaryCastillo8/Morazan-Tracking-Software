@@ -32,7 +32,7 @@
   <h3 align="center">MORAZAN TRACKING SOFTWARE</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+   
     <br />
     <a href="https://github.com/GaryCastillo8/Morazan-Tracking-Software"><strong>Explore the docs »</strong></a>
     <br />
