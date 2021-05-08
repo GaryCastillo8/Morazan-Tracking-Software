@@ -190,9 +190,7 @@ Thanks to the softwares are shown below:
 
 * [Gpredict](http://gpredict.oz9aec.net/)
 * [Pypredict](https://github.com/spel-uchile/Pypredict)
-* [Orbitron]
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
+* Orbitron
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
