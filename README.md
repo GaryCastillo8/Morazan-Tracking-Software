@@ -127,7 +127,7 @@ If you have any trouble during the installation of the packages, you can also in
    ```
 2. Move to Morazan Tracking Software folder
    ```sh
-   cd /'Morazan Tracking Software'
+   cd /Morazan-Tracking-Software
  
    
 3. Install packages
