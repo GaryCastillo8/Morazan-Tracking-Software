@@ -99,8 +99,7 @@ Is based on others professional Tracking Softwares like Pypredict, GPredict and 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+You can use this software to follow the ISS and many other CubeSats.
 
 ### Prerequisites
 
