@@ -126,7 +126,7 @@ If you have any trouble during the installation of the packages, you can also in
    ```sh
    git clone https://github.com/GaryCastillo8/Morazan-Tracking-Software.git
    ```
-2. Move to MTS folder
+2. Move to Morazan Tracking Software folder
    ```sh
    cd /'Morazan Tracking Software'
  
@@ -136,11 +136,9 @@ If you have any trouble during the installation of the packages, you can also in
    sudo sh install.sh
    pip3 install --upgrade pip
    ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
+4. Install MTS
+   ```sh
+   pip3 install . --no-binary shapely
 
 
 <!-- USAGE EXAMPLES -->
