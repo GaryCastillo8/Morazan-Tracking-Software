@@ -182,7 +182,7 @@ Distributed under the GPL-3.0 License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Christopher Gary Castillo - garycastilloc8@gmail.com
 
 Project Link: [https://github.com/GaryCastillo8/Morazan-Tracking-Software](https://github.com/GaryCastillo8/Morazan-Tracking-Software)
 
@@ -192,8 +192,6 @@ Project Link: [https://github.com/GaryCastillo8/Morazan-Tracking-Software](https
 ## Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
