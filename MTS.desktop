@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Morazán Tracking Software
+Version=1.0
+GenericName=MTS
+Comment=Satellite tracker for MrzSat
+Terminal=false
+Categories=Application;Science;DataVisualization;Engineering
+StartupNotify=true
+Exec=~/.local/bin/MTS
+Icon=~/.local/lib/python3.8/site-packages/MTS/img/favicon1.png
