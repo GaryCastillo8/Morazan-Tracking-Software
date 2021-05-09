@@ -175,8 +175,6 @@ Project Link: [https://github.com/GaryCastillo8/Morazan-Tracking-Software](https
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-Thanks to the softwares are shown below:
-
 * [Gpredict](http://gpredict.oz9aec.net/)
 * [Pypredict](https://github.com/spel-uchile/Pypredict)
 * [Orbitron](http://www.stoff.pl)
