@@ -80,7 +80,7 @@
 
 ![MTS](https://raw.githubusercontent.com/GaryCastillo8/Morazan-Tracking-Software/main/img/tracking1.png)
 
-MTS is a tracking and orbit propagator software. Shows the world map with the position of the CubeSat and Cabañas ground station, located in Tegucigalpa, Honduras. It also display the CubeSat trajectory and coverage in real time.
+Morazan TRacking Software (MTS) is a tracking and orbit propagator software. Shows the world map with the position of the CubeSat and Cabañas ground station, located in Tegucigalpa, Honduras. It also display the CubeSat trajectory and coverage in real time.
 
 The main purposes:
 * Show the real-time location of the satellite
