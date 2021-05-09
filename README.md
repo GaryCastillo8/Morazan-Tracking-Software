@@ -86,20 +86,19 @@ The main purposes:
 * Show the real-time location of the satellite
 * Find its orbital parameters
 * Show the visibility window
-* To know the events above Central America and Cabañas ground station
+* Identify events above Central America and Cabañas ground station
 
-Is based on others professional Tracking Softwares like Pypredict, GPredict and Orbitron.
+This software is based on other Tracking Softwares like Pypredict, GPredict and Orbitron.
 
 ### Built With
 
 * [Python](https://www.python.org)
-* [Pypredict](https://github.com/spel-uchile/Pypredict)
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-You can use this software to follow the ISS and many other CubeSats.
+You can use this software to follow any body in space.
 
 ### Prerequisites
 
@@ -128,8 +127,7 @@ If you have any trouble during the installation of the packages, you can also in
 2. Move to Morazan Tracking Software folder
    ```sh
    cd /Morazan-Tracking-Software
- 
-   
+   ```
 3. Install packages
    ```sh
    sudo sh install.sh
@@ -139,20 +137,15 @@ If you have any trouble during the installation of the packages, you can also in
    ```sh
    pip3 install . --no-binary shapely
 
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-You can view the trajectories of the CubeSats, the south atlantic anomaly and their coverage. There is a buttom for each one.
-
-
+Trajectories of the CubeSats, the south atlantic anomaly and their coverage are covered in the software.
 
 <!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/GaryCastillo8/Morazan-Tracking-Software/issues) for a list of proposed features (and known issues).
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -165,14 +158,10 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the GPL-3.0 License. See `LICENSE` for more information.
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -190,7 +179,7 @@ Thanks to the softwares are shown below:
 
 * [Gpredict](http://gpredict.oz9aec.net/)
 * [Pypredict](https://github.com/spel-uchile/Pypredict)
-* Orbitron
+* [Orbitron](http://www.stoff.pl)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
